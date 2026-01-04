@@ -16,3 +16,4 @@ logistic regression in my 3rd semester of Statistics & Data Science.
 
 ## Files
 - `logistic_regression_diabetes.ipynb` — clean notebook with full workflow
+- [Diabetes_train dataset link](https://www.kaggle.com/competitions/playground-series-s5e12/data)
